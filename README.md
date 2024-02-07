@@ -4,13 +4,12 @@
 
 The directory layout is simple.  The <code>src</code> directory has the OpenSCAD code that generated the files in the <code>stl</code> directory.  Here's what I built so far:
 
-  * Top plate for the kickstand - a singe OpenSCAD file that can generate both the washer and full top plate
-  * 48V Battery mount - so you can mount batteries on a wall for charging or safe keeping
-  * SVG file for laser cutting a clear lens for the AliExpress High Output LED Head Light
-  * Clasp for the XPedition pannier bag to allow the bag to be compressed
-  * More permanent mount for the Cutesliving blinker lights available on AliExpress. 
-  * Mount for the blinker panel on the handle bars
-  * Mount for the Lectric Elite headlight with front rack
+  * <code>blinker.scad</code> - top plate for the kickstand.  Single OpenSCAD file that can generate both washer and top plate
+  * <code>battery.scad</code> - 48V battery mount - Now you can mount batteries on a wall for charging or safe keeping
+  * <code>headlight.svg</code> - SVG file for laser cutting a clear lens for the AliExpress High Output LED Head Light
+  * <code>pannier.scad</code> - clasp for the XPedition pannier bag to allow the bag to be compressed
+  * <code>blinker.scad</code> - more permanent mount for the Cutesliving blinker lights available on AliExpress
+  * <code>washer.scad</code> - washer to replace the seatpost lever with a M5x20 hexbolt dowel nut and bolt
 
 My favorite so far are the pannier clasps, clear lens for the headlight, and the kickstand plate.  
 
@@ -24,7 +23,7 @@ The following will help you get the best prints:
   * Filament brand: Duramic, Overture
   * Filament color: Black
   * Filament material: PETG
-  * Notes: Supports are needed for the Cutesliving blinker rear panel as well as the blinker controller but the Elite light support can be rotated on the Y axis by 90 degree and not require supports.
+  * Notes: Supports are definitely needed for the Cutesliving blinker rear panel as well as the blinker controller.  Kickstand can be printed without supports.
 
 ## Post-Printing
 Remove support rafts carefully to avoid breaking the frame.

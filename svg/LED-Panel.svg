@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2550 3300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Top-Hole" serif:id="Top Hole" transform="matrix(0.342532,0,0,0.334804,643.417,633.009)">
+        <ellipse cx="1569.74" cy="684.565" rx="55.17" ry="56.444" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.89px;"/>
+    </g>
+    <g id="Bottom-Hole" serif:id="Bottom Hole" transform="matrix(0.342532,0,0,0.334804,643.417,1270.8)">
+        <ellipse cx="1569.74" cy="684.565" rx="55.17" ry="56.444" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.89px;"/>
+    </g>
+    <g id="Right-Hole" serif:id="Right Hole" transform="matrix(0.342532,0,0,0.334804,1174.91,951.907)">
+        <ellipse cx="1569.74" cy="684.565" rx="55.17" ry="56.444" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.89px;"/>
+    </g>
+    <g id="Left-Hole" serif:id="Left Hole" transform="matrix(0.342532,0,0,0.334804,111.921,951.907)">
+        <ellipse cx="1569.74" cy="684.565" rx="55.17" ry="56.444" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.89px;"/>
+    </g>
+    <g id="Glass" transform="matrix(1.37285,0,0,1.40475,-106.463,-257.598)">
+        <ellipse cx="937.879" cy="1024.16" rx="421.562" ry="269.052" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.22px;"/>
+    </g>
+</svg>
