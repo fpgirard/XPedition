@@ -1,6 +1,6 @@
 # Lectric XPedition Parts
 
-## A collection of 3D printed parts for the Lectric XPedition bike.  These include the following in both OpenSCAD and .stl formats
+## A collection of 3D printed parts for the Lectric XPedition bike.  
 
 The directory layout is simple.  The <code>src</code> directory has the OpenSCAD code that generated the files in the <code>stl</code> directory.  Here's what I built so far:
 
