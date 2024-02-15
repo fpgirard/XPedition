@@ -36,9 +36,9 @@ module washer() {
    difference() {
      base();
      translate([0,-10,0])cylinder(h=30, d=hole);                            // mount hole
-     translate([0,53,0])cylinder(h=25, d=fender);                           // fender
+     translate([0,56,0])cylinder(h=25, d=fender);                           // fender
      mirror2()translate([-64,32,-7])rotate([90,0,23.5])cylinder(h=80,d=d3); // stays
-     translate([0,-22,0]) linear_extrude(1) mirror([1,0,0]) text("V0.1", size=4, valign="bottom", halign="center",direction="ltr");
+     translate([0,-22,0]) linear_extrude(1) mirror([1,0,0]) text("V0.1a", size=4, valign="bottom", halign="center",direction="ltr");
    }
 }
 washer();
