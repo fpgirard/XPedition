@@ -1,4 +1,4 @@
-![XPedition Kickstand Plate](/docs/images/kickstand.png)
+![Alt text](/docs/kickstand.png "Kickstand")
 # Lectric XPedition Parts
 
 ## A collection of 3D printed parts for the Lectric XPedition bike.  
