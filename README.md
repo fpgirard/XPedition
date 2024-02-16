@@ -1,10 +1,11 @@
+![XPedition Kickstand Plate](/docs/images/kickstand.png)
 # Lectric XPedition Parts
 
 ## A collection of 3D printed parts for the Lectric XPedition bike.  
 
 The directory layout is simple.  The <code>src</code> directory has the OpenSCAD code that generated the files in the <code>stl</code> directory.  Here's what I built so far:
 
-  * <code>kickstand.scad</code> - top plate for the kickstand.  Single OpenSCAD file that can generate both washer and top plate
+  * [<code>kickstand.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/kickstand.stl) - top plate for the kickstand.  Single OpenSCAD file that can generate both washer and top plate
   * <code>battery.scad</code> - 48V battery mount - Now you can mount batteries on a wall for charging or safe keeping
   * <code>headlight.svg</code> - SVG file for laser cutting a clear lens for the AliExpress High Output LED Head Light
   * <code>pannier.scad</code> - clasp for the XPedition pannier bag to allow the bag to be compressed
@@ -16,6 +17,7 @@ My favorite so far are the pannier clasps, clear lens for the headlight, and the
 ## Print Settings
 
 The following will help you get the best prints:
+
   * Printer: Prusa I3 MK3S
   * Rafts: Yes
   * Supports: Yes
