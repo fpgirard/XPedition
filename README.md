@@ -1,4 +1,4 @@
-<img src="https://github.com/fpgirard/xpedition/blob/main/docs/kickstand.png" width="200" height="50" /
+<img src="https://github.com/fpgirard/xpedition/blob/main/docs/kickstand.png" width="200" height="50" /img>
 # Lectric XPedition Parts
 
 ## A collection of 3D printed parts for the Lectric XPedition bike.  
