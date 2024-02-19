@@ -6,6 +6,7 @@
 The directory layout is simple:
   * <code>src</code> is OpenSCAD source code
   * <code>stl</code> contains exported <code>stl</code> files
+  * <code>svg</code> contains vector and .pdf files for laser cutting.
   * <code>docs</code> has images, documents, schematics, and other supporting files
 
   So far, we've built:
