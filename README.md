@@ -12,10 +12,10 @@ The XPedition is a wonderful cargo bicycle.  A few aspects of this bike, however
   * Compression clasps - [<code>pannier.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/pannier.stl) - Clasp for the XPedition pannier bag to allow the bag to be compressed.
 
 This git directory layout is simple. In each of these directories, a separate <code>README.md</code> provides further details:
-  * <code>src</code> has OpenSCAD source code that created the STL & STEP files
-  * <code>stl</code> contains exported <code>STL</code> files
-  * <code>svg</code> contains vector and .pdf files for laser cutting.
-  * <code>docs</code> has images, documents, schematics, and other supporting files
+  * [<code>src</code>](https://github.com/fpgirard/xpedition/tree/main/src) has OpenSCAD source code that created the STL & STEP files
+  * [<code>stl</code>](https://github.com/fpgirard/xpedition/tree/main/stl) contains exported <code>STL</code> files
+  * [<code>svg</code>](https://github.com/fpgirard/xpedition/tree/main/svg) contains vector and .pdf files for laser cutting.
+  * [<code>docs</code>](https://github.com/fpgirard/xpedition/tree/main/docs) has images, documents, schematics, and other supporting files
 
 ## Design
 All designs are [<code>OpenSCAD</code>](https://openscad.org/) code. In the spirit of open-source, I've included these files so you can make the modifications _you_ want.  You will also need to use the [<code>BOSL2</code>](https://github.com/BelfrySCAD/BOSL2) library.  Except for the KTP, all of these components can be used as 3D printed parts, either as PLA or PETG.
