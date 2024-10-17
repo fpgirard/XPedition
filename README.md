@@ -1,7 +1,7 @@
 ![](./docs/kickstand.png)
 # Lectric XPedition Parts
 
-## A collection of Lectric XPedition Parts.  
+## A collection of Lectric XPedition Parts
 The XPedition is a wonderful cargo bicycle.  A few aspects of this bike, however, needed serious improvement.  Among them were:
 
   * Kickstand Top Plate (KTP) - [<code>kickstand.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/kickstand.stl) - The OG Kickstand Top Plate (KTP).
