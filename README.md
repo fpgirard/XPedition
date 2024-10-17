@@ -8,7 +8,7 @@ The XPedition is a wonderful cargo bicycle.  A few aspects of this bike, however
   * Modifiable Feet for LT kickstand - [<code>haul-lt-feet.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/haul-lt-feet.stl) - Feet for the Specialized Haul LT kickstand.
   * Battery mounts - [<code>battery.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/battery.stl) - 48V battery mount - Now you can mount batteries on a wall for charging or safe keeping.
   * Sturdy headlight mount - [<code>headlight-rad.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/headlight-rad.stl) - Mount for the Ali Express headlight that works really well for the Rad front basket.
-  * Blazing headlight [<code>headlight.svg</code>](https://github.com/fpgirard/xpedition/blob/main/svg/headlight.svg) - SVG file for laser cutting a clear lens for the AliExpress High Output LED Head Light.
+  * Blazing headlight [<code>headlight.svg</code>](https://github.com/fpgirard/xpedition/blob/main/svg/LED-Panel.svg) - SVG file for laser cutting a clear lens for the AliExpress High Output LED Head Light.
   * Compression clasps - [<code>pannier.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/pannier.stl) - Clasp for the XPedition pannier bag to allow the bag to be compressed.
 
 This git directory layout is simple. In each of these directories, a separate <code>README.md</code> provides further details:
