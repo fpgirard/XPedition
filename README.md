@@ -5,7 +5,7 @@
 The XPedition is a wonderful cargo bicycle.  A few aspects of this bike, however, needed serious improvement.  Among them were:
 
   * Kickstand Top Plate (KTP) - [<code>kickstand.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/kickstand.stl) - The OG Kickstand Top Plate (KTP).
-  * Modifiable Feet for LT kickstand - [<code>haul-lt-feet.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/haul-lt-feet.stl) - Feet for the Specialized Haul LT kickstand.
+  * Modifiable Feet for LT kickstand - [<code>haul-lt-feet.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/haul-lt-feet20.stl) - Feet for the Specialized Haul LT kickstand.
   * Battery mounts - [<code>battery.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/battery.stl) - 48V battery mount - Now you can mount batteries on a wall for charging or safe keeping.
   * Sturdy headlight mount - [<code>headlight-rad.scad</code>](https://github.com/fpgirard/xpedition/blob/main/stl/headlight-rad.stl) - Mount for the Ali Express headlight that works really well for the Rad front basket.
   * Blazing headlight [<code>LED-Panel.svg</code>](https://github.com/fpgirard/xpedition/blob/main/svg/LED-Panel.svg) - SVG file for laser cutting a clear lens for the AliExpress High Output LED Head Light.
