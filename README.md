@@ -22,6 +22,8 @@ All designs are [<code>OpenSCAD</code>](https://openscad.org/) code. In the spir
 
 For KTP, I used STL files to 3D print prototypes to measure fit/function. I was naive to think that I could submit these STLs to a machine shop and expect a reasonable price. The process is far more complicated and requires that one converts STL to a STEP-format (<code>kickstand.step</code>).   Using Autocad's Fusion360 mesh manipulation features, particularly <code>generate face groups</code> and <code>combine face groups</code>, I invested days to create a fully parametric STEP file from the original STL version. This repository includes both the STL and the resulting STEP file.  If you have access to a machine shop, submit the <code>kickstand1c.step</code> file.
 
+[Matt DeHaan](https://www.facebook.com/matthew.alan.393) and I have a utility patent pending on the Kickstand Top Plate (KTP).   It was filed in the Patent & Trademark Office on April 4, 2024 under the Application Number 63/574,639 under the title "**FORCE NEUTRALIZING BICYCLE KICKSTAND TOP-PLATE**"
+
 ## Manufacturing
 Pricing to 3D print and mill components can vary widely. Invest the time to get multiple quotes.
 
