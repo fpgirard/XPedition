@@ -29,7 +29,7 @@ module mirror2(v) {
     mirror(v) children();
 }
 
-module washer() {
+module ktp() {
    module base() {
        hull() {
            linear_extrude(h1) trapezoid(w1=w1, w2=w2, h=d1, rounding = 7);
@@ -44,4 +44,4 @@ module washer() {
      //translate([0,-22,0]) linear_extrude(1) mirror([1,0,0]) text("V0.1c", size=4, valign="bottom", halign="center",direction="ltr");
    }
 }
-washer();
+ktp();
