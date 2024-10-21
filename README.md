@@ -13,7 +13,7 @@ The XPedition is a wonderful cargo bicycle.  A few aspects of this bike, however
 
 This git directory layout is simple. In each of these directories, a separate <code>README.md</code> provides further details:
   * [<code>src</code>](https://github.com/fpgirard/xpedition/tree/main/src) has OpenSCAD source code that created the STL & STEP files
-  * [<code>stl</code>](https://github.com/fpgirard/xpedition/tree/main/stl) contains exported <code>STL</code> files
+  * [<code>stl</code>](https://github.com/fpgirard/xpedition/tree/main/stl) contains exported <code>STL</code> and <code>STEP</code> files
   * [<code>svg</code>](https://github.com/fpgirard/xpedition/tree/main/svg) contains vector and .pdf files for laser cutting.
   * [<code>docs</code>](https://github.com/fpgirard/xpedition/tree/main/docs) has images, documents, schematics, and other supporting files
 
